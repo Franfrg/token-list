@@ -5317,7 +5317,7 @@
       "decimals": 6,
       "logoURI": "",
       "tags": [
-        "leveraged",
+        "leveraged"timestamp": "2021-03-03T19:57:21+0000",                                                                                "tokens": [                                                                                                               {                                                                                                                         "chainId": 101,                                                                                                         "address": "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91",                                                              "symbol": "EV1",                                                                                                        "name": "EveryOne Coin",                                                                                                "decimals": 9,                                                                                                          "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3SghkPdBSrpF9bzdAy5LwR4n>      "tags": [                                                                                                                 "currency"                                                                                                            ],                                                                                                                      "extensions": {                                                                                                           "facebook": "https://facebook.com/everyonecoin",                                                                        "twitter": "https://twitter.com/everyonecoin",                                                                          "website": "https://everyonecoin.com/"                                                                                }                                                                                                                     },                                                                                                                      {                                                                                                                         "chainId": 101,",
         "bear"
       ],
       "extensions": {
@@ -184622,4 +184622,14 @@
     "minor": 3,
     "patch": 3
   }
-}
+},
+{
+        "chainId": 101,
+        "address": "9RcnBPEtHUgGvRZkjBBhCX5NjnWZGx6xrYK4Fw1YeMhR",
+        "symbol": "ZRKL",
+        "name": "ZorkleCoin",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/Franfrg/zorklecoin-assets/main/assets/mainnet/9RcnBPEtHUgGvRZkjBBhCX5NjnWZGx6xrYK4Fw1YeMhR/logo.png",
+        "tags": ["community-token"]
+    }
+]
